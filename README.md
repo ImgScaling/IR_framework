@@ -6,7 +6,7 @@ MATERIALS for the paper:
 
 SOFTWARE
 
-The p-code of the framework proposed in the paper "An Open Image Resizing Framework for Remote Sensing Applications and beyond ", Remote Sensing, under revision, by D. Occorsio, G. Ramella, W. Themistoclakis, is intended to provide valuable assistance to researchers in the selection and comparison of diverse Image Resizing (IR) methods and encourage the adoption of best practices in designing, analyzing experiments, and conducting comprehensive assessments of IR methods. 
+The p-code of the framework proposed in the paper "An Open Image Resizing Framework for Remote Sensing Applications and beyond", Remote Sensing, ISSN 2072 - 4292, under revision, by D. Occorsio, G. Ramella, W. Themistoclakis, is intended to provide valuable assistance to researchers in the selection and comparison of diverse Image Resizing (IR) methods and encourage the adoption of best practices in designing, analyzing experiments, and conducting comprehensive assessments of IR methods. 
  
 Before running the framework, insert the images in the folder of input images (mandatory), named "input_image," and the folder of ground truth images (mandatory in supervised mode and not required in unsupervised mode), named "GT_image." Note that the images in each folder should have the same graphic format. Moreover, in the supervised mode, the GT_image folder should include the ground truth images whose name file is the same as the input images in the input_image folder.
  
@@ -31,6 +31,6 @@ The authors make no representations about the suitability of this material for a
 
 In case of publishing results obtained utilizing this material, please refer to the following paper:
 
-D. Occorsio, G. Ramella, W. Themistoclakis, “An Open Image Resizing Framework for Remote Sensing Applications and beyond”, Remote Sensing, under revision.
+D. Occorsio, G. Ramella, W. Themistoclakis, “An Open Image Resizing Framework for Remote Sensing Applications and beyond”, Remote Sensing, ISSN 2072 - 4292, under revision.
 
 
